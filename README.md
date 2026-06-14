@@ -98,6 +98,7 @@ Technologies Used:
 
 ## System Workflow
 
+```text
 User Query
 ↓
 Planner Agent
@@ -121,6 +122,7 @@ PDF Generator
 Gradio Interface
 ↓
 Research Report + Downloadable PDF
+```
 
 ---
 
